@@ -110,7 +110,7 @@ session_start();
 
 				<input type="submit" value="Login" id="submit">
 
-				<a href="preRegister.php" title="" class="anchor">Not yet registered?</a>
+				<a href="userSignup.php" title="" class="anchor">Not yet registered?</a>
 
 			</form>
 			<p id="errorMsg"></p>
