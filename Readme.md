@@ -1,5 +1,7 @@
 # Webtech-Final-Project-Menebus
 ```diff
+! My User is Seller.
+
 +DataBase Information
 
 -$host = "localhost";
